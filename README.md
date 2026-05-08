@@ -1,7 +1,7 @@
 🛠️ Proceso paso a paso: 
-Creación del Directorio: Se creó la carpeta de trabajo practica_firewall y los subdirectorios workdata y confdir para que la configuración sea persistente y no se pierda al borrar el contenedor.
+Creación del Directorio: Hice la carpeta de trabajo practica_firewall y los subdirectorios workdata y confdir para que la configuración sea persistente y no se pierda al borrar el contenedor.
 
-Configuración con Docker Compose: Se creó un archivo docker-compose.yml para gestionar el servicio, mapeando los puertos clave:
+Configuración con Docker Compose: Hice el archivo docker-compose.yml para gestionar el servicio, mapeando los puertos clave:
 
 53: Para las peticiones DNS.
 
@@ -9,11 +9,11 @@ Configuración con Docker Compose: Se creó un archivo docker-compose.yml para g
 
 80: Para el panel de control web.
 
-Despliegue: Se levantó el servicio con el comando docker-compose up -d.
+Despliegue: Levanté el servicio con el comando docker-compose up -d.
 
-Configuración del Sistema: Se modificó la configuración de red en Windows, cambiando el servidor DNS por la dirección de bucle local 127.0.0.1.
+Configuración del Sistema: Modifiqué la configuración de red en Windows, cambiando el servidor DNS por la dirección de bucle local 127.0.0.1.
 
-Activación de Filtros: Se accedió al panel web para verificar que las listas de bloqueo estuvieran activas y procesando el tráfico.
+Activación de Filtros: Accedí al panel web para verificar que las listas de bloqueo estuvieran activas y procesando el tráfico.
 
 🛡️ ¿Qué función tiene?
 La función principal de este despliegue es actuar como un Firewall DNS. Sus beneficios son:
