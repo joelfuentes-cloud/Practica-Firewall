@@ -54,7 +54,7 @@ Entra en tu navegador a http://localhost para ver el Panel de Control, donde apa
 Ejemplo:
 <img width="969" height="397" alt="image" src="https://github.com/user-attachments/assets/05c648aa-7e0c-43e4-89b1-ddae5f0d9b58" />
 <img width="1206" height="656" alt="image" src="https://github.com/user-attachments/assets/6c3f5a1b-4c62-47da-9631-e238e5c2afb7" />
-<img width="1185" height="939" alt="image" src="https://github.com/user-attachments/assets/e9362686-25a2-40d7-8bca-0ecf0920b155" />
+<img width="1208" height="925" alt="image" src="https://github.com/user-attachments/assets/0d9f77aa-fbe3-4f5a-9c91-9dd697a65803" />
 <img width="1178" height="363" alt="image" src="https://github.com/user-attachments/assets/94ea4d1a-d9ee-4dc0-b2f5-8818b8fa9210" />
 <img width="696" height="653" alt="image" src="https://github.com/user-attachments/assets/05820ab6-b5c0-4081-b24d-3c7d2a61ce51" />
 
